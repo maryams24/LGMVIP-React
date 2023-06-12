@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/LGMVIP-React/static/css/main.bc4ca6fe.css",
-    "main.js": "/LGMVIP-React/static/js/main.72e5db48.js",
-    "static/js/787.34d05ddd.chunk.js": "/LGMVIP-React/static/js/787.34d05ddd.chunk.js",
-    "index.html": "/LGMVIP-React/index.html",
-    "main.bc4ca6fe.css.map": "/LGMVIP-React/static/css/main.bc4ca6fe.css.map",
-    "main.72e5db48.js.map": "/LGMVIP-React/static/js/main.72e5db48.js.map",
-    "787.34d05ddd.chunk.js.map": "/LGMVIP-React/static/js/787.34d05ddd.chunk.js.map"
+    "main.css": "/LGMVIP-Web-Task-Number/static/css/main.bc4ca6fe.css",
+    "main.js": "/LGMVIP-Web-Task-Number/static/js/main.e90e1fa0.js",
+    "static/js/787.34d05ddd.chunk.js": "/LGMVIP-Web-Task-Number/static/js/787.34d05ddd.chunk.js",
+    "index.html": "/LGMVIP-Web-Task-Number/index.html",
+    "main.bc4ca6fe.css.map": "/LGMVIP-Web-Task-Number/static/css/main.bc4ca6fe.css.map",
+    "main.e90e1fa0.js.map": "/LGMVIP-Web-Task-Number/static/js/main.e90e1fa0.js.map",
+    "787.34d05ddd.chunk.js.map": "/LGMVIP-Web-Task-Number/static/js/787.34d05ddd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bc4ca6fe.css",
-    "static/js/main.72e5db48.js"
+    "static/js/main.e90e1fa0.js"
   ]
 }
